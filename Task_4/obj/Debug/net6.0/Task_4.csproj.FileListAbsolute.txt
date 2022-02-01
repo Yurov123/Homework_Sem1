@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\obj\Debug\net6.0\Task_4.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\obj\Debug\net6.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfo.cs
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\obj\Debug\net6.0\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\bin\Debug\net6.0\Task_4.exe
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\bin\Debug\net6.0\Task_4.deps.json
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\bin\Debug\net6.0\Task_4.runtimeconfig.json
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\bin\Debug\net6.0\Task_4.dll
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\bin\Debug\net6.0\ref\Task_4.dll
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\bin\Debug\net6.0\Task_4.pdb
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\obj\Debug\net6.0\Task_4.dll
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\obj\Debug\net6.0\ref\Task_4.dll
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\obj\Debug\net6.0\Task_4.pdb
+C:\Users\Honor\Desktop\домашнее задание\Homework_C#_Sem1\Task_4\obj\Debug\net6.0\Task_4.genruntimeconfig.cache
